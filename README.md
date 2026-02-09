@@ -1,37 +1,27 @@
-<div align="center">
+# 💫 About Me:
+Hi there, I'm Anshul Silhare!<br>Operations, Supply Chain & Business Analyst<br>I am currently studing PGDM in research and busienss anaalytics with operations as a specialisation and want to pursue career in operations analyst or business analyst<br><br>I am an aspiring **Operations & Supply Chain Analyst** bridging the gap between logistics strategy and data science. Currently pursuing a **PGDM in Research & Business Analytics** at Welingkar Institute of Management, Mumbai.<br><br>My focus is on using technical tools to solve real-world operational inefficiencies. Instead of just "reporting" data, I build models that drive decision-making.<br><br>**🚀 What I Bring to the Table:**<br>* **Network Optimization:** Building "Digital Twins" of supply chains using **Python & Folium** to reduce transit times and CapEx.<br>* **Business Intelligence:** Creating actionable dashboards in **Power BI & Tableau** to track KPIs like inventory turnover and service levels.<br>* **Data Strategy:** Leveraging **SQL & Excel** to clean, structure, and analyze complex datasets for cost reduction and process improvement.<br><br>**🔭 Current Focus:**<br>I am currently working on advanced **Logistics Network Optimization** models and refining my skills in **Predictive Analytics** for demand forecasting.I am a **PGDM (Research & Business Analytics)** candidate at Welingkar Institute of Management, Mumbai, strictly focused on **Operations Strategy**, **Supply Chain Optimization**, and **Technical Data Analysis**.<br><br>I bridge the gap between logistics theory and data science. My portfolio demonstrates the ability to solve complex operational problems—from optimizing last-mile delivery networks to analyzing high-volume transportation data—using **Python**, **SQL**, and **Advanced Excel**.<br><br>**🚀 Operational Analytics Portfolio:**<br>* **Logistics Network Digital Twin:** Engineered a 5-node supply chain model using **Python & Folium** to optimize delivery routes and reduce CapEx.<br>* **Transportation Data Analysis:** Analyzed high-volume **Rapido ride data** using **SQL** to identify demand surges, service bottlenecks, and fleet allocation inefficiencies.<br>* **Inventory Forecasting:** Developed comparative forecasting models (Moving Avg vs. Exponential Smoothing) to minimize stock variance and improve service levels.<br>* **Strategic Procurement:** Applied the **Kraljic Matrix** to optimize supplier risk management and sourcing strategy.<br><br>**🛠️ Technical Arsenal:**<br>* **Optimization:** Network Design, Route Planning, Facility Location.<br>* **Analysis:** SQL Queries, Python (Pandas/NumPy), Excel Solver.<br>* **Visualization:** Power BI Dashboards, Tableau.
 
-# 🎉 Congratulations AnshulSilhare! 🎉
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshul-silhare/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulsilhare@gmail) 
 
-### 🌟 You've successfully completed the exercise! 🌟
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnshulSilhare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnshulSilhare&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulSilhare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Share Your Success!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnshulSilhare&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
-**Show off your new skills and inspire others!**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FAnshulSilhare%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FAnshulSilhare%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FAnshulSilhare%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
-
-### 🎯 What's Next?
-
-**Keep the momentum going!**
-
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/AnshulSilhare/skills-introduction-to-github/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
-
-*There's no better way to learn than building things!* 🚀
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnshulSilhare&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AnshulSilhare&icon=0&color=0)](https://visitcount.itsvg.in)
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
